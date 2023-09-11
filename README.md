@@ -23,7 +23,7 @@ Instale as dependências usando o npm:
 Execute o projeto e siga as instruções no console para inserir propriedades:
 
 ```bash
-node index.js
+node src/controllers/propriedades.js
 
 ```
 #### Exemplos de Requisições
@@ -37,15 +37,21 @@ DigDigite as propiedades CSS ou 'sair' para finalizar:: 123
 Digite as propiedades CSS ou 'sair' para finalizar: sair
 ```
 
-Saída após a ordenação:
+#### Saída após a ordenação:
 
-
-
-#### Propriedades em ordem alfabética:
+Propriedades em ordem alfabética:
 ```bash
 1. backgroud-color
 2. display
 3. hover
+```
+## Ferramentas utilizadas nesse projeto: 
+
+```bash
+1. NodeJS
+2. Biblioteca: prompt-sync
+3. Git
+4. Github
 ```
 
 ## Referências

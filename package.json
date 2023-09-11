@@ -1,4 +1,4 @@
-{
+{ "type": "commonjs",
   "name": "projetonodejs",
   "version": "1.0.0",
   "description": "Este projeto consiste em uma aplicação Node.js que recebe como entrada um conjunto de atributos CSS desordenados e os organiza em ordem alfabética.",
@@ -10,6 +10,7 @@
   "author": "Jhoshuan Christopher",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "prompt-sync": "^4.2.0"
   }
 }
